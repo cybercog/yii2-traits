@@ -1,6 +1,6 @@
 <?php
 
-namespace dlds\giixer\components\traits;
+namespace dlds\traits\db;
 
 /**
  * Makes whole active record read-only
