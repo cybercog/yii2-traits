@@ -1,0 +1,26 @@
+{
+    "name": "dlds/yii2-traits",
+    "description": "Yii2 helpful traits",
+    "keywords": ["yii2", "traits", "helpers"],
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "support": {
+        "issues": "https://github.com/dlds/yii2-traits/issues",
+        "wiki": "https://github.com/dlds/yii2-traits/wiki",
+        "source": "https://github.com/dlds/yii2-traits"
+    },
+    "authors": [
+        {
+            "name": "Jiri Svoboda",
+            "email": "jiri.svoboda@dlds.cz"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "dlds\\traits\\": ""
+        }
+    }
+}
